@@ -16,30 +16,30 @@ Dataset Link : [Netflix Movies Dataset](https://www.kaggle.com/shivamb/netflix-s
 Business Problems and Solutions :
 
 1. Count the Number of Movies vs TV Shows
-Objective: Determine the distribution of content types on Netflix.
+   Objective: Determine the distribution of content types on Netflix.
 
-2. Find the Most Common Rating for Movies and TV Shows
+3. Find the Most Common Rating for Movies and TV Shows
 Objective: Identify the most frequently occurring rating for each type of content.
 
-3. List All Movies Released in a Specific Year (e.g., 2020)
+4. List All Movies Released in a Specific Year (e.g., 2020)
 Objective: Retrieve all movies released in a specific year.
 
-4. Find the Top 5 Countries with the Most Content on Netflix
+5. Find the Top 5 Countries with the Most Content on Netflix
 Objective: Identify the top 5 countries with the highest number of content items.
 
-5. Identify the Longest Movie
+6. Identify the Longest Movie
 Objective: Find the movie with the longest duration.
 
-6. Find Content Added in the Last 5 Years
+7. Find Content Added in the Last 5 Years
 Objective: Retrieve content added to Netflix in the last 5 years.
 
-7. Find All Movies/TV Shows by Director 'Rajiv Chilaka'
+8. Find All Movies/TV Shows by Director 'Rajiv Chilaka'
 Objective: List all content directed by 'Rajiv Chilaka'.
 
-8. List All TV Shows with More Than 5 Seasons
+9. List All TV Shows with More Than 5 Seasons
 Objective: Identify TV shows with more than 5 seasons.
 
-9. Count the Number of Content Items in Each Genre
+10. Count the Number of Content Items in Each Genre
 Objective: Count the number of content items in each genre.
 
 10.Find each year and the average numbers of content release in India on netflix.
